@@ -1,2 +1,2 @@
 # groupingtool
-Tool to analyze groups
+Tool to analyze groups: www.groupingtool.herokuapp.com
